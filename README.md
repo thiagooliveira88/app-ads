@@ -1,1 +1,1 @@
-arquivo inicial
+O Sorteio Esportivo é o aplicativo ideal para criar times equilibrados com base nas habilidades dos jogadores. Nosso objetivo é facilitar a escolha de capitães de equipe e o compartilhamento das formações, garantindo partidas justas e divertidas para todos os jogadores. Com o Sorteio Esportivo, a paixão pelo esporte se torna ainda mais emocionante e justa.
